@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1653695573 source:/home/alexandre/Documentos/AEDS I/Projeto Lista/main.c
+	<stdio.h>
+	<stdlib.h>
+	"listas.h"
+
+1653694378 /home/alexandre/Documentos/AEDS I/Projeto Lista/listas.h
+	<stdio.h>
+	<stdlib.h>
+
+1653695214 source:/home/alexandre/Documentos/AEDS I/Projeto Lista/listas.c
+	<stdlib.h>
+	<stdio.h>
+	"listas.h"
+
